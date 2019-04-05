@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = "activecache",
-    version = "0.1.3",
+    version = "0.2.1",
     author = "ReThought Ltd",
     author_email = "code@rethought-solutions.com",
     url = "git://github.com/Rethought/activecache",
